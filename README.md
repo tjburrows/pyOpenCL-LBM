@@ -1,5 +1,5 @@
 # pyOpenCL-LBM
-Implementation of 2D lid driven cavity in Python and pyOpenCL.  This jupyter notebook utilizes an OpenCL device to compute with Lattice Boltzmann method.  This includes CPUs and GPUs (Nvidia or AMD).
+Implementation of incompressible 2D lid driven cavity in Python and pyOpenCL.  This jupyter notebook utilizes an OpenCL device to compute with Lattice Boltzmann method.  This includes CPUs and GPUs (Nvidia or AMD).
 
 ## Features implemented
 * Single relaxation time (SRT) /  Bhatnagar-Gross-Krook (BGK)
